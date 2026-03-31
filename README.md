@@ -1,0 +1,1 @@
+This is for a research paper which has been presented at New England Symposium on Statistics in Sports (Harvard) and The International Conference on Complex Networks and their Applications (SUNY Binghamton) and submitted to the journal, Applied Network Science. 
